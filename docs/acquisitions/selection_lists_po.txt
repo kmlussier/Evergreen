@@ -165,7 +165,7 @@ image::media/acq_marc_search.png[search form]
 ----
 +
 . A list of results will appear. Click the "Copies" link to add copy information to the line item. See the link:line_items.txt[section on Line Items] for more information.
-. Click the Notes link to add notes or line item alerts to the line item. See the link:line_items.txt[section on Line Items] for more information.
+. Click the Notes link to add notes or line item alerts to the line item. See the link:_line_items.txt[section on Line Items] for more information.
 . Enter a price in the "Estimated Price" field.
 . You can save the line item(s) to a selection list by checking the box on the line item and clicking Actions -> Save Items to Selection List. You can also create a purchase order from the line item(s) by checking the box on the line item and clicking Actions ~> Create Purchase Order.
 
